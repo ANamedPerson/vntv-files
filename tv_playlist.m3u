@@ -1,36 +1,36 @@
 #EXTM3U
 #EXTINF:-1 tcg-id="Vietoday Television " tvg-logo="https://www.giniko.com/logos/190x110/921.png" group-title="General",Vietoday Television  
-https://tgn.bozztv.com/gin-dvrfl05/vch_vchannel1/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDY6NDQ6NTYgQU0maGFzaF92YWx1ZT0ya21vVFRibEUzdGszTjB0cDNqVjdRPT0mdmFsaWRtaW51dGVzPTE0NDAmc3RybV9sZW49MjU=
+https://tgn.bozztv.com/gin-dvrfl05/vch_vchannel1/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDEyOjUwOjAzIFBNJmhhc2hfdmFsdWU9K3EyZmthSEdZVHlYQy9rSXR4UGd0dz09JnZhbGlkbWludXRlcz0xNDQwJnN0cm1fbGVuPTI1
 #EXTINF:-1 tcg-id="Saigon TV " tvg-logo="https://www.giniko.com/logos/190x110/922.png" group-title="General",Saigon TV  
-https://tgn.bozztv.com/gin-dvrfl05/vch_vchannel2/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDY6NDQ6NTggQU0maGFzaF92YWx1ZT1RMWZick4zaW55bWZ6RVZxbzBTdEJBPT0mdmFsaWRtaW51dGVzPTE0NDAmc3RybV9sZW49MjU=
+https://tgn.bozztv.com/gin-dvrfl05/vch_vchannel2/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDEyOjUwOjA1IFBNJmhhc2hfdmFsdWU9TE1DSE5PMVAwL1BRb2NSbEZSenJadz09JnZhbGlkbWludXRlcz0xNDQwJnN0cm1fbGVuPTI1
 #EXTINF:-1 tcg-id="VSTV " tvg-logo="https://www.giniko.com/logos/190x110/923.jpg" group-title="General",VSTV  
-https://tgn.bozztv.com/gin-dvrfl05/vch_vchannel3/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDY6NDU6MDAgQU0maGFzaF92YWx1ZT1VQytKNm1GK05qazFzWmJKSTR5Q0Z3PT0mdmFsaWRtaW51dGVzPTE0NDAmc3RybV9sZW49MjU=
+https://tgn.bozztv.com/gin-dvrfl05/vch_vchannel3/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDEyOjUwOjA3IFBNJmhhc2hfdmFsdWU9OG8vVDRPb29pQlBPZDdZVDAvRFFXUT09JnZhbGlkbWludXRlcz0xNDQwJnN0cm1fbGVuPTI1
 #EXTINF:-1 tcg-id="AVA TV " tvg-logo="" group-title="General",AVA TV  
-https://tgn.bozztv.com/gin-dvrfl05/vchannel/vchannel16/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDc6MjU6NDYgQU0maGFzaF92YWx1ZT1ySGJnOE5MK3N5Ti9GY0xDeDFnMTBBPT0mdmFsaWRtaW51dGVzPTE0NDA=
+https://tgn.bozztv.com/gin-dvrfl05/vchannel/vchannel16/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDE6MzA6NTQgUE0maGFzaF92YWx1ZT11M0hwb1ZwbWpFVDg2MzJVYXg2Mk1BPT0mdmFsaWRtaW51dGVzPTE0NDA=
 #EXTINF:-1 tcg-id="VIETSKY TV " tvg-logo="" group-title="General",VIETSKY TV  
-https://tgn.bozztv.com/gin-dvrfl05/vchannel/vchannel13/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDc6MjU6NDcgQU0maGFzaF92YWx1ZT1xWThxeVlPZEtjZlJaemZLRDcvZFR3PT0mdmFsaWRtaW51dGVzPTE0NDA=
+https://tgn.bozztv.com/gin-dvrfl05/vchannel/vchannel13/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDE6MzA6NTggUE0maGFzaF92YWx1ZT1jNjM0ZDB4ZFAvcHlhbGwvTlhJQXRnPT0mdmFsaWRtaW51dGVzPTE0NDA=
 #EXTINF:-1 tcg-id="GM TV " tvg-logo="" group-title="General",GM TV  
-https://tgn.bozztv.com/gin-dvrfl05/vchannel/vchannelgmtv/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDc6MjU6NDkgQU0maGFzaF92YWx1ZT03YVAyUk5MYkhVOVNmOTFieThSNVBRPT0mdmFsaWRtaW51dGVzPTE0NDA=
+https://tgn.bozztv.com/gin-dvrfl05/vchannel/vchannelgmtv/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDE6MzA6NTkgUE0maGFzaF92YWx1ZT1SVzcxTzIvMENDbHc4cjdPeVVDL0VRPT0mdmFsaWRtaW51dGVzPTE0NDA=
 #EXTINF:-1 tcg-id="Viet Channels Info " tvg-logo="" group-title="General",Viet Channels Info  
-https://tgn.bozztv.com/gin-dvrfl05/vchannel/vchannel15/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDc6MjU6NTAgQU0maGFzaF92YWx1ZT1zUEhGNkNoa05GYkxwa1IxTTBEU1VnPT0mdmFsaWRtaW51dGVzPTE0NDA=
+https://tgn.bozztv.com/gin-dvrfl05/vchannel/vchannel15/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDE6MzE6MDEgUE0maGFzaF92YWx1ZT1hT205NExRMTZweUhQYW9YSDc2ZVRBPT0mdmFsaWRtaW51dGVzPTE0NDA=
 #EXTINF:-1 tcg-id="Vcab7 " tvg-logo="https://www.giniko.com/logos/190x110/1333.jpg" group-title="General",Vcab7  
-https://tgn.bozztv.com/gin-dvrfl05/vch_vchannel18/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDY6NDU6MTYgQU0maGFzaF92YWx1ZT0rMGZRVjdMakd2MS9LMzNyWDNLcVd3PT0mdmFsaWRtaW51dGVzPTE0NDAmc3RybV9sZW49MjY=
+https://tgn.bozztv.com/gin-dvrfl05/vch_vchannel18/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDEyOjUwOjIzIFBNJmhhc2hfdmFsdWU9UElqbmlySWpYQXJpMWRESjhDNDc0QT09JnZhbGlkbWludXRlcz0xNDQwJnN0cm1fbGVuPTI2
 #EXTINF:-1 tcg-id="E channel " tvg-logo="https://www.giniko.com/logos/190x110/926.jpg" group-title="General",E channel  
-https://tgn.bozztv.com/gin-dvrfl05/vch_vchannel6/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDY6NDU6MTcgQU0maGFzaF92YWx1ZT1FWk9ad0M2bDJOem44bWlIcWdBNzRRPT0mdmFsaWRtaW51dGVzPTE0NDAmc3RybV9sZW49MjU=
+https://tgn.bozztv.com/gin-dvrfl05/vch_vchannel6/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDEyOjUwOjI2IFBNJmhhc2hfdmFsdWU9YjA4RExjMlQ5U2VtMGhtQUExR3Z3QT09JnZhbGlkbWludXRlcz0xNDQwJnN0cm1fbGVuPTI1
 #EXTINF:-1 tcg-id="STYLE TV " tvg-logo="https://www.giniko.com/logos/190x110/930.jpg" group-title="General",STYLE TV  
-https://tgn.bozztv.com/gin-dvrfl05/vch_vchannel10/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDY6NDU6MTkgQU0maGFzaF92YWx1ZT1hMG04ZE1wWXBxZ1FtMXVqR3J5a21RPT0mdmFsaWRtaW51dGVzPTE0NDAmc3RybV9sZW49MjY=
+https://tgn.bozztv.com/gin-dvrfl05/vch_vchannel10/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDEyOjUwOjI4IFBNJmhhc2hfdmFsdWU9YUtiRHVjc3dEMFZ1bGFIYUovLzFXZz09JnZhbGlkbWludXRlcz0xNDQwJnN0cm1fbGVuPTI2
 #EXTINF:-1 tcg-id="ON Film " tvg-logo="https://www.giniko.com/logos/190x110/924.jpg" group-title="General",ON Film  
-https://tgn.bozztv.com/gin-dvrfl05/vch_vchannel4/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDY6NDU6MjAgQU0maGFzaF92YWx1ZT1Odm1rakFzZGx1OTdSdXErQktvRk5RPT0mdmFsaWRtaW51dGVzPTE0NDAmc3RybV9sZW49MjU=
+https://tgn.bozztv.com/gin-dvrfl05/vch_vchannel4/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDEyOjUwOjI5IFBNJmhhc2hfdmFsdWU9NUxLVy9ncmdpcE42eW9hVXVVS3NHQT09JnZhbGlkbWludXRlcz0xNDQwJnN0cm1fbGVuPTI1
 #EXTINF:-1 tcg-id="On Football " tvg-logo="https://www.giniko.com/logos/190x110/932.jpg" group-title="General",On Football  
-https://tgn.bozztv.com/gin-dvrfl05/vch_vchannel11/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDY6NDU6MjUgQU0maGFzaF92YWx1ZT1FRzdUM2tBOFVHaUpOMWVtdkZLeEpnPT0mdmFsaWRtaW51dGVzPTE0NDAmc3RybV9sZW49MjY=
+https://tgn.bozztv.com/gin-dvrfl05/vch_vchannel11/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDEyOjUwOjMzIFBNJmhhc2hfdmFsdWU9WkxzUHlTQkdPbXYxNlNOTjB2NlkyZz09JnZhbGlkbWludXRlcz0xNDQwJnN0cm1fbGVuPTI2
 #EXTINF:-1 tcg-id="V Now " tvg-logo="https://www.giniko.com/logos/190x110/1030.png" group-title="General",V Now  
-https://tgn.bozztv.com/gin-36bay4/vchannel_vchannel-event/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDY6NDU6MjcgQU0maGFzaF92YWx1ZT1vWExQRElZV0Irb0RyUm11dXl1dmRnPT0mdmFsaWRtaW51dGVzPTE0NDAmc3RybV9sZW49MzQ=
+https://tgn.bozztv.com/gin-36bay4/vchannel_vchannel-event/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDEyOjUwOjM0IFBNJmhhc2hfdmFsdWU9VGkvQmdKNkl1dkRBdnZNRFlNbVFnZz09JnZhbGlkbWludXRlcz0xNDQwJnN0cm1fbGVuPTM0
 #EXTINF:-1 tcg-id="Vietoday Television " tvg-logo="" group-title="General",Vietoday Television  
-https://tgn.bozztv.com/gin-dvrfl05/vchannel/vchannel1/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDc6MjY6MTMgQU0maGFzaF92YWx1ZT1kU2xBZ3MxSFdERzM4WUcvQlFBS1p3PT0mdmFsaWRtaW51dGVzPTE0NDA=
+https://tgn.bozztv.com/gin-dvrfl05/vchannel/vchannel1/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDE6MzE6MjIgUE0maGFzaF92YWx1ZT05cGo4U0xtcVprRHg1Zk5tVWNuQzlnPT0mdmFsaWRtaW51dGVzPTE0NDA=
 #EXTINF:-1 tcg-id="Saigon TV " tvg-logo="" group-title="General",Saigon TV  
-https://tgn.bozztv.com/gin-dvrfl05/vchannel/vchannel2/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDc6MjY6MTUgQU0maGFzaF92YWx1ZT0rYjduK0tOMTg4NDV6cTRIZzJaMk1RPT0mdmFsaWRtaW51dGVzPTE0NDA=
+https://tgn.bozztv.com/gin-dvrfl05/vchannel/vchannel2/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDE6MzE6MjMgUE0maGFzaF92YWx1ZT1KMmhBOGdYWXhpZ0taM1ZURjgrS1VBPT0mdmFsaWRtaW51dGVzPTE0NDA=
 #EXTINF:-1 tcg-id="VSTV " tvg-logo="" group-title="General",VSTV  
-https://tgn.bozztv.com/gin-dvrfl05/vchannel/vchannel3/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDc6MjY6MTYgQU0maGFzaF92YWx1ZT1QUVhzK0NIcGlZZXJucnBoSk9uYWVBPT0mdmFsaWRtaW51dGVzPTE0NDA=
+https://tgn.bozztv.com/gin-dvrfl05/vchannel/vchannel3/index.m3u8?wmsAuthSign=c2VydmVyX3RpbWU9OS8yOS8yMDI1IDE6MzE6MjYgUE0maGFzaF92YWx1ZT1OSThWWktJVm5Pd3JyU3VWMGN1N05RPT0mdmFsaWRtaW51dGVzPTE0NDA=
 #EXTINF:-1 tvg-id="BacKanTV.vn" tvg-logo="" group-title="Undefined",Bac Kan TV (406p)
 http://123.31.36.68/live.m3u8?c=vstv360&deviceId=&deviceType=&gcId=1532&location=NA&pkg=pkg11.hni&q=high&requestTime=1586309420781&time=1586395820&token=LX-ibJYRUq9pflRtYAxfYQ&type=tv&userId=
 #EXTINF:-1 tvg-id="BacNinhTV.vn" tvg-logo="" group-title="Undefined",Bac Ninh TV (720p)
